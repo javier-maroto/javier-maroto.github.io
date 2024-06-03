@@ -14,7 +14,14 @@
     {
       "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
       "location": "Lausanne, Switzerland",
-      "description": "Worked for armasuisse Science & Technology in a 4-years collaboration with their team of engineers\nDesigned and implemented frameworks in Pytorch and JAX for improving the robustness of neural networks against adversarial perturbations by leveraging inherent data properties, outperforming state-of-the-art robust neural networks.\nPublished 3 papers in leading machine learning conferences\nUsed adversarial training, knowledge distillation, and data generation with diffusion models.\nApplied these frameworks to computer vision and wireless communications\nAttended ML optimization courses and lead projects on applications like NLP or federated learning",
+      "highlights": [
+        "Worked for armasuisse Science & Technology in a 4-years collaboration with their team of engineers",
+        "Designed and implemented frameworks in Pytorch and JAX for improving the robustness of neural networks against adversarial perturbations by leveraging inherent data properties, outperforming state-of-the-art robust neural networks.",
+        "Published 3 papers in leading machine learning conferences",
+        "Used adversarial training, knowledge distillation, and data generation with diffusion models.",
+        "Applied these frameworks to computer vision and wireless communications",
+        "Attended ML optimization courses and lead projects on applications like NLP or federated learning"
+      ],
       "position": "Doctoral Researcher",
       "startDate": "March 2020",
       "endDate": "Present"
@@ -24,8 +31,8 @@
       "location": "Lausanne, Switzerland",
       "position": "Research Intern",
       "description": "Designed a novel data-rich autoencoder framework in Python to improve state-of-the-art results in recommender systems.\nPublished a paper in ICASSP",
-      "startDate": "September 2019",
-      "endDate": "February 2020"
+      "startDate": "Sept. 2019",
+      "endDate": "Feb. 2020"
     }
   ],
   "volunteer": [],
@@ -45,6 +52,10 @@
     {
       "language": "Spanish",
       "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
     }
   ],
   "interests": [],
